@@ -13,7 +13,7 @@
 // // b) Verify and explain: Output was indeed 5, for reasons provided in my predicted answer.
 
 
-// --------------------1) What will this log?
+// --------------------1) What will this log?.
 
 const cohort = "LEARN 2022"
 // console.log(cohort.length)

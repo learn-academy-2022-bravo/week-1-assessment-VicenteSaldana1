@@ -72,7 +72,7 @@ The object here would be 'person', followed by its assigned values right after. 
 4. Method: A JS method is an action that can be performed on an object. A JS method  
 is a property containing a function definition. Methods are functions stored as object properties. Uses  the keyword (this). Source w3schools.
 
-5. Classes: Javascript classes were introduced in ES6, which is a newer, updated version of JavaScript that is commonly used today. A JavaScript class is not an object, it is a template for JavaScript objects. When you have a class, you can use a class to create objects. To create a class, we must utilize the keyword class, and always add the method word --constructor ()--, which will help create the object. 
+5. Classes: Javascript classes were introduced in ES6, which is a newer, updated version of JavaScript that is commonly used today. A JavaScript class is not an object, it is a template for JavaScript objects. When you have a class, you can use a class to create objects. To create a class, we must utilize the keyword class, and always add the method word --constructor ()--, which will help create the object.
 example: class Car {
   constructor(name, year) {
     this.name = name;

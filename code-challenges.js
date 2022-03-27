@@ -23,7 +23,7 @@
 // // // input is temparature compared to boiling point
 // // // conditional statement to know if temparature is at, above, or below boiling point
 // // // return string with boiling point status
-// // // invoke function with variables as an argument
+// // // invoke function with variables as an argument 
 //
 const temp1 = 42
 const temp2 = 350
